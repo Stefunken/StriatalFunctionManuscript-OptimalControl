@@ -6,7 +6,7 @@ This repository contains:
 - 3 Jupyter Notebooks (described below)
 
 To reproduce the main and supplementary figures of the paper just run the notebook: "Plot_main_fig_lesion_paper.ipynb"
-It imports preprocessed data and simulation results and plot the 2 figures of the paper (2 .pdf files are saved in the folder FiguresLesionPaper).
+It imports preprocessed data and simulation results and generates the 2 figures of the paper (2 .pdf files are saved in the folder FiguresLesionPaper).
 
 The notebook "Main-OC-Simulations.ipynb" computes all the results related to optimal control simulations and save them in the PickleResults/Simulations folder.
 
