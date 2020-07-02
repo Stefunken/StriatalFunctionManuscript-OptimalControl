@@ -1,6 +1,6 @@
 # StriatalFunctionManuscript-OptimalControl
 
-These repository contains: 
+This repository contains: 
 - a file .yml to create the "treadmillOC" environment which is necessary to run the codes 
 - 3 folders containing useful data (Data_for_fit), results of simulations and model fitting (PickleResults with the 2 subfolders Simulations and Fit), and the figures presented in the paper (FiguresLesionPaper).
 - 3 Jupyter Notebooks (described below)
